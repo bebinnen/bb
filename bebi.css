@@ -1,0 +1,30 @@
+.garchig{
+    display: flex;
+    justify-content: left;
+    color: red;
+    
+}
+.hailt{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    font-size: medium;
+}
+.bichleguud{
+   
+    font-size: smaller;
+}
+.left{
+    height: 100%;
+    width: 85pt;
+    background-color: rgb(166, 166, 159);
+}
+.bb{
+    justify-content: center;
+    height: 25pt;
+    width: 50pt;
+    background-color: lightslategray;
+    
+
+}
